@@ -12,3 +12,5 @@ Meu nome é Jessica
 alurastartestudante@email.com
 
 @alurastartestudante
+
+![](https://media1.tenor.com/m/1SDTHgTkXP4AAAAd/vae.gif)
